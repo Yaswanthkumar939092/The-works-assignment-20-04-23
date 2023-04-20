@@ -2,6 +2,4 @@
 
 
 
-Live project link:
-
-theworksassign9.ccbp.tech
+Live project link: theworksassign9.ccbp.tech
